@@ -5,6 +5,7 @@ import filetype
 import uuid
 import uvicorn
 from typing import Optional
+
 from models import ImageMetadata, ImageResponse
 
 
